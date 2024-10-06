@@ -21,8 +21,8 @@ jobs:
       with:
         logout: false
         ecr: false
-        username: "thanmughildk"
-        password: "411693625Dk@"
+        username: "thanmughil"
+        password: "dckr_pat_qosoNXwkpbBCR_JLxANrfyRvAcQ"
 
     - name: Build the Docker image
       uses: docker/build-push-action@v3
